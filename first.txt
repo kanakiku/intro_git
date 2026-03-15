@@ -5,3 +5,5 @@ rensyu
 aaaaa
 
 bbbbb
+
+ステータス
